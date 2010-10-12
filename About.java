@@ -9,6 +9,7 @@
 /**
  *
  * @author  Bertie pwn android, you fail
+ * YO ENDRER PÅ LINJE 2
  */
 public class About extends javax.swing.JFrame {
 
