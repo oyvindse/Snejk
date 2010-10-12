@@ -8,7 +8,7 @@
 
 /**
  *
- * @author  Bertie Boy
+ * @author  Bertie pwn android
  */
 public class About extends javax.swing.JFrame {
 
