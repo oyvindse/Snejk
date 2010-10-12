@@ -8,8 +8,7 @@
 
 /**
  *
- * @author  Bertie pwn android, you fail
- * YO ENDRER PÅ LINJE 2
+ * @author  Bertie pwn andriod, you fail so hard !!
  */
 public class About extends javax.swing.JFrame {
 
