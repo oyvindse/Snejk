@@ -8,7 +8,7 @@ import java.awt.*;
 
 /**
  *
- * @author Bertie
+ * @author Bertie boy
  */
 public class Levels {
     private int x_, y_;
