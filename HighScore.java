@@ -4,7 +4,7 @@
 
 /** HighScore
  *
- *  @author Andreas Myrhaug, Stian Sorebo and Oyvind Selmer
+ *  @author Andreas Myrhaug, Stian Sorebo and Oyvind Selmer boy
  */
 import java.io.*;
 public class HighScore implements Serializable{
